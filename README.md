@@ -7,7 +7,13 @@ This project was created as part of the **HCI 418 course** and demonstrates prin
 The objective of the game is to destroy all moving balls on the screen using a controllable cannon before the timer runs out.
 
 ---
+## ⭐ Play (Windows - No Python Needed)
+You can download the Windows executable from the **Releases** section:
 
+1. Go to **Releases**
+2. Download `Team118_code.exe`
+3. Run the file directly
+   
 ## System Requirements
 - Operating System: Windows, macOS, or Linux
 - Python version: Python 3.8 or higher
